@@ -1,0 +1,5 @@
+Today, I have started with Installling git from google or chrome.
+And checked the installed version using the command (git --version) also to verify if GIT is installed or not?
+Now i setup the Name and Email usinng the commands:( git config --global user.name "****") , (git config --global user.email "****")
+To connfirm whether the name is set or not i  have used the commmand as (git config --global --list)
+After that i  have checked the git version in command prompt.
