@@ -1,3 +1,4 @@
+
 Today, I have started with Installling git from google or chrome.
 And checked the installed version using the command (git --version) also to verify if GIT is installed or not?
 Now i setup the Name and Email using the commands:( git config --global user.name "****") , (git config --global user.email "****")
@@ -6,3 +7,6 @@ After that i  have checked the git version in command prompt.
 
 Again i Continued with how to  create a accout in GITHUB , and created a repository in GITHUB
 And added a file for the undertanding and am editing in that the process step by  step what am doing.
+
+Today i have created a folder in my desktop , Now i can able to connect the folder with my github repository using VisualStudio code.
+I am opening an terminal in VSC. now am inn DevOps folder . so now to connect the folder and github , i am using the command as "git clone"
