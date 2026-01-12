@@ -1,0 +1,24 @@
+Getting Started with Linux: Essential Commands Explained::
+
+Date   ==> Shows the current date
+Whoami ==> shows in which user u  have loggedin
+pwd(print working directory)  ==> it shows in which directory u r currently in
+mkdir  ==> to make directory
+rmdir ==> to remove directory
+touch filename.txt ==> To create an empty file
+cat Filename.txt  ==> It shows the content inside the file.
+cat > filename.txt ==> It will overwrite the content in the file
+cat >> filename.txt ==> It will add additional content to the file
+Ctrl+C  ==> to exit from cat command 
+cat -n filename.txt ==> how many no of content or lines in the files
+ls ==> is to list the files or directories
+nano filename.txt ==> it is used to edit the content in the file . Because in cat command we cant edit the content , so for that purpose we will be using nano or vi to edit 
+ctrl+o ==> to save the edit (nano)
+ctrl=x ==> to exit the nano
+vi filename.txt ==>it is used to edit the content in the file . Because in cat command we cant edit the content , so for that purpose we will be using nano or vi to edit
+I ==> to insert the content or to write the content in VI (will change it from read mode to write or edit mode)
+:w  ==> to save the edit in vi
+:q ==> to quit the vi
+:wq ==> to save the edit and quit vi
+Echo "Content" filename.txt==> print the command in the terminal
+rm filename.txt ==> to remove the specific file
